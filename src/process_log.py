@@ -103,6 +103,7 @@ def make_feature_3(df, output_path):
 	busiest_time = df.sort_values(['sum', 'time_full'], ascending = [False, True])[0:10][['time_full', 'sum']]
 	busiest_time.to_csv(path_or_buf = output_path, index = False, header = False)
 
+
 def find_blocked_log(df):
 	'''
 	This function find the blocked logs of one host/IP address.
@@ -169,7 +170,7 @@ def find_blocked_log(df):
 				time_at_first_fail = current_time
 				time_at_second_fail = -1
 
-	previous_time = current_time
+		previous_time = current_time
 		    
 	return pd.Series(log)
 
