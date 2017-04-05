@@ -1,0 +1,7 @@
+/login
+/shuttle/countdown/
+/history/apollo/
+/shuttle/missions/sts-73/sts-73-patch-small.gif
+/shuttle/countdown/countdown.html
+/shuttle/countdown/liftoff.html
+/shuttle/countdown/video/livevideo.gif

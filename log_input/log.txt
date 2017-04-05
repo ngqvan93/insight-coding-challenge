@@ -1,0 +1,12 @@
+223.229.59.14 - - [01/Jul/1995:00:00:19 -0400] "GET / HTTP/1.0" 200 7074
+223.229.59.14 - - [01/Jul/1995:00:00:19 -0400] "GET /history/mercury/mercury.html HTTP/1.0" 200 1871
+223.229.59.14 - - [01/Jul/1995:00:00:19 -0400] "GET /history/apollo/images/apollo-logo1.gif HTTP/1.0" 200 1173
+223.229.59.14 - - [01/Jul/1995:00:00:19 -0400] "GET /shuttle/technology/sts-newsref/sts_asm.html HTTP/1.0" 200 71656
+223.229.59.14 - - [01/Jul/1995:00:00:19 -0400] "GET /images/launchpalms-small.gif HTTP/1.0" 200 11473
+223.229.59.14 - - [01/Jul/1995:00:00:24 -0400] "GET /shuttle/countdown/ HTTP/1.0" 200 3985
+223.229.59.14 - - [01/Jul/1995:00:00:25 -0400] "GET /shuttle/missions/51-l/mission-51-l.html HTTP/1.0" 200 6723
+223.229.59.14 - - [01/Jul/1995:00:00:27 -0400] "GET / HTTP/1.0" 200 7074
+223.229.59.14 - - [01/Jul/1995:00:00:27 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 304 0
+223.229.59.14 - - [01/Jul/1995:00:00:27 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+223.229.59.14 - - [01/Jul/1995:00:00:27 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+223.229.59.14 - - [01/Jul/1995:00:00:27 -0400] "GET / HTTP/1.0" 200 7074

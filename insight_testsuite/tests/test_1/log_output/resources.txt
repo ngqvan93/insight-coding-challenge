@@ -1,0 +1,9 @@
+/shuttle/technology/sts-newsref/sts_asm.html
+/
+/images/launchpalms-small.gif
+/shuttle/missions/51-l/mission-51-l.html
+/shuttle/countdown/
+/history/mercury/mercury.html
+/images/KSC-logosmall.gif
+/history/apollo/images/apollo-logo1.gif
+/images/NASA-logosmall.gif
