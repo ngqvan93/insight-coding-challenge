@@ -139,7 +139,7 @@ def find_blocked_log(df):
 			time_at_first_fail = -1
 			time_at_second_fail = -1
         
-        # block is not in effect, encounter neither a successful nor a failed login
+		# block is not in effect, encounter neither a successful nor a failed login
 		elif df.loc[i]['code'] != '200' and df.loc[i]['code'] != '401':
 			pass
 
@@ -147,7 +147,7 @@ def find_blocked_log(df):
 		elif time_at_first_fail == -1:
 			time_at_first_fail = current_time
 	     
-	    # block is not in effect.  
+		# block is not in effect.  
 		elif time_at_second_fail == -1:
 			# encounter the second failed login  
 			if (current_time - time_at_first_fail).total_seconds() < window:
