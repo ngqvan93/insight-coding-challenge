@@ -106,7 +106,7 @@ def make_feature_3(df, output_path):
 
 def find_blocked_log(df):
 	'''
-	This function find the blocked logs of one host/IP address.
+	This function finds the blocked logs of one host/IP address.
 	It takes a dataframe that holds all logs of one host/IP address.
 	'''
 
